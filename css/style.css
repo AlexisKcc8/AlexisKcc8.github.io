@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.fondo{
+	background: #fff;
+	height: 100vh;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn_efectoOscuro{
+	width: 30%;
+	height: 10%;
+	font-size: 1rem;
+}
+.btn_efectoOscuro:hover{
+	cursor: pointer;
+}
+.fondoOscuro{
+	background: #000;
+}
